@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "png-clipart-camera-logo-wedding-graphy-grapher-world-graphy-organisation-camera-logo-angle-wish.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
